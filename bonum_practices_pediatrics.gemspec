@@ -8,7 +8,7 @@ Gem::Specification.new do |s|
   s.description = "This gem adds support for pediatrics practice types to the Bonum Medicine environment"
   s.authors     = ["Jose Rivera"]
   s.email       = 'jrivera@qixi.com.mx'
-  s.files       = ["lib/bonum/practices/pediatrics.rb"]
+  s..files      = `git ls-files`.split
   s.homepage    =
     'http://www.bonummedicine.com/practices/pediatrics'
   s.license       = 'MIT'
