@@ -9,9 +9,8 @@ Gem::Specification.new do |s|
   s.authors     = ["Jose Rivera"]
   s.email       = 'jrivera@qixi.com.mx'
   s..files      = `git ls-files`.split
-  s.homepage    =
-    'http://www.bonummedicine.com/practices/pediatrics'
-  s.license       = 'MIT'
+  s.homepage    = 'http://www.bonummedicine.com/practices/pediatrics'
+  s.license     = 'MIT'
   s.add_dependency 'activesupport'
   s.add_development_dependency 'rspec'
   s.add_development_dependency 'byebug'

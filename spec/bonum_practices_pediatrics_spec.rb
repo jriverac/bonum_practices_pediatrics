@@ -1,5 +1,5 @@
-require 'pediatrics'
+require 'bonum/practices/pediatrics'
 
-describe Pediatrics do
+describe Bonum::Practices::Pediatrics do
   pending "write it"
 end
